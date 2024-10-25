@@ -1,7 +1,3 @@
-Here's a comprehensive README file for your Weather Monitoring System project, without the license section:
-
----
-
 # Weather Monitoring System
 
 ## Overview
